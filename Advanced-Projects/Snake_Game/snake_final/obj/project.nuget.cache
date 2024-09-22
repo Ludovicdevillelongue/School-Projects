@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/5XB6v/ou8hLymxaNUSDF2dkkLdhU0H0NnLQ1SJubRRCVjsJZy8A4K9B8r/v+pUVTBkGpwOa97W5I+B1vuJcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Dauphine\\M1 EIF\\S2\\intro à C\\projet snake\\snake_final\\snake_final\\snake_final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
